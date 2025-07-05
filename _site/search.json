@@ -3,7 +3,7 @@
   
   
     {
-      "title"    : "Welcome to the Universe of İlker Çatak",
+      "title"    : "Es war einmal Indianerland",
       "tags"     : "welcome and blog",
       "categories" : "blog",
       "url"      : "/welcome-to-the-desert-of-the-real/",
@@ -11,65 +11,65 @@
     } ,
   
     {
-      "title"    : "Why books should be your priority?",
-      "tags"     : "books and read",
-      "categories" : "life",
+      "title"    : "Es gilt das gesprochene Wort",
+      "tags"     : "basedon and drama",
+      "categories" : "drama",
       "url"      : "/why-books-should-be-your-priority/",
       "date"     : "11/22/2018"
     } ,
   
     {
-      "title"    : "The quick brown fox jumps over a lazy dog",
-      "tags"     : "css and tips",
-      "categories" : "css",
+      "title"    : "Das Lehrzimmer",
+      "tags"     : "academy and winner",
+      "categories" : "AWARD-WINNER",
       "url"      : "/the-quick-brown-fox-jumps-over-a-lazy-dog/",
       "date"     : "10/09/2018"
     } ,
   
     {
-      "title"    : "A wonderful serenity has taken possession of my entire soul",
-      "tags"     : "platform, javascript, and vscode",
-      "categories" : "code",
+      "title"    : "Sadakat",
+      "tags"     : "basedon and politisch",
+      "categories" : "politisch",
       "url"      : "/a-wonderful-serenity-has-taken-possession-of-my-entire-soul/",
       "date"     : "07/20/2018"
     } ,
   
     {
-      "title"    : "Candy, candies, candy!",
-      "tags"     : "food and tips",
-      "categories" : "diet",
+      "title"    : "Als Namibia eine Stadt war",
+      "tags"     : "identitatkrise and kurzfilm",
+      "categories" : "familie",
       "url"      : "/candy-candies-candy/",
       "date"     : "04/21/2018"
     } ,
   
     {
-      "title"    : "Trust me, it will work",
-      "tags"     : "languages and tips",
-      "categories" : "tips",
+      "title"    : "Wo Wir Sind",
+      "tags"     : "drama and life",
+      "categories" : "drama",
       "url"      : "/trust-me-it-will-work/",
       "date"     : "03/12/2018"
     } ,
   
     {
-      "title"    : "How to turn your dog into a Jedi master",
-      "tags"     : "jedi, doggo, and starwars",
-      "categories" : "tutorial",
+      "title"    : "Rauberhande",
+      "tags"     : "basedon and drama",
+      "categories" : "drama",
       "url"      : "/how-to-turn-your-dog-into-a-jedi-master/",
       "date"     : "02/03/2018"
     } ,
   
     {
-      "title"    : "Let flexbox work for you or perish",
-      "tags"     : "css and frontend",
-      "categories" : "css",
+      "title"    : "Gelbe Briefe",
+      "tags"     : "upcoming and brisant",
+      "categories" : "upcoming",
       "url"      : "/let-flexbox-work-for-you-or-perish/",
       "date"     : "08/15/2017"
     } ,
   
     {
-      "title"    : "A star has fallen from the sky and the cat ate it",
-      "tags"     : "crazy and story",
-      "categories" : "music",
+      "title"    : "Tatort | Borowski und der gute Mensch",
+      "tags"     : "life and story",
+      "categories" : "criminal",
       "url"      : "/a-star-has-fallen-from-the-sky-and-the-cat-ate-it/",
       "date"     : "08/08/2017"
     } ,

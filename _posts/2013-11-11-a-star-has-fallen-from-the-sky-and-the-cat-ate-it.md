@@ -1,16 +1,16 @@
 ---
 date: 2017-08-07 23:04:08
 layout: post
-title: A star has fallen from the sky and the cat ate it
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme10_xenudc.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme10_xenudc.jpg
-category: music
+title: Tatort | Borowski und der gute Mensch
+subtitle: Borowski und der gute Mensch ist ein Fernsehfilm aus der Krimireihe Tatort. Der vom NDR produzierte Beitrag ist die 1173. 
+description: Tatort-Episode und wurde am 3. Oktober 2021 im Ersten ausgestrahlt.[2] Der Kieler Kommissar Klaus Borowski ermittelt in seinem 37. Fall, seine Kollegin Sahin in ihrem sechsten Fall.
+image: assets/img/F-Tatort.png
+optimized_image: assets/img/F-Tatort.png
+category: 'criminal'
 tags:
-  - crazy
+  - life
   - story
-author: mranderson
+author: theilkercatak
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

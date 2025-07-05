@@ -1,19 +1,19 @@
 ---
 date: 2017-08-14 22:55:45
 layout: post
-title: Let flexbox work for you or perish
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme2_ylcxxz.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
-category: css
+title: Gelbe Briefe
+subtitle: Kleines filmisches Experiment von einem türkischen Paar, das quasi ins Exil geht.
+description: Es geht um die Geschichte eines Künstler-Ehepaars aus Ankara, das verklagt wird, weil es angeblich gegen den Staat aufbegehrt.
+image: assets/img/F-GelbeBriefe.png
+optimized_image: assets/img/F-GelbeBriefe.png
+category: upcoming
 tags:
-  - css
-  - frontend
-author: mranderson
+  - upcoming
+  - brisant
+author: theilkercatak
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Räuberhände ist ein Roman von Finn-Ole Heinrich aus dem Jahr 2007. <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 

@@ -1,16 +1,16 @@
 ---
 date: 2018-03-12 12:26:40
 layout: post
-title: Trust me, it will work
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme1_eoyjtl.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme1_eoyjtl.jpg
-category: 'tips'
+title: Wo Wir Sind
+subtitle: Christina hat aufgrund ihrer Heroinabhängigkeit das Sorgerecht für ihre Tochter verloren. Nun unternimmt sie einen verzweifelten Versuch, mit der neunjährigen Paula alles hinter sich zu lassen.
+description: Christina Semnik hat aufgrund ihrer schweren Heroinabhängigkeit das Sorgerecht für ihre neunjährige Tochter Paula an eine Pflegefamilie abgegeben. Nachdem alle anderen Versuche gescheitert sind, macht sie eine stationäre Therapie, die einige Monate dauert.
+image: assets/img/F-WoWirSind.png
+optimized_image: assets/img/F-WoWirSind.png
+category: 'drama'
 tags:
-  - languages
-  - tips
-author: mranderson
+  - drama
+  - life
+author: theikercatak
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

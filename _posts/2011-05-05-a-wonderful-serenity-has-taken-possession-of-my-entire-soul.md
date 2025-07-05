@@ -1,16 +1,15 @@
 ---
 date: 2018-07-20 12:26:40
 layout: post
-title: A wonderful serenity has taken possession of my entire soul
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
-category: code
+title: Sadakat
+subtitle: Istanbul 2014, Asli nimmt einen Polit-Aktivisten auf, der in Istanbul auf der Straße demonstriert hat. Das bringt sie und ihre Familie ins Visier der Polizei
+description: Asli ist eine junge, moderne, türkische Frau. Während ihrer Arbeit als Röntgenassistentin in einer Klinik in Istanbul kommt es zu einem Zwischenfall. Sie versteckt einen polizeiflüchtigen Demonstranten und ermöglicht ihm dann, zu entkommen. In den darauffolgenden Tagen untersucht die Polizei die Flucht, fragt bei Asli zu Hause nach, wodurch auch ihr Mann Gökhan miteinbezogen wird.
+image: assets/img/F-Sadakat.png
+optimized_image: assets/img/F-Sadakat.png
+category: 'politisch'
 tags:
-  - platform
-  - javascript
-  - vscode
+  - basedon
+  - politisch
 author: mranderson
 ---
 
