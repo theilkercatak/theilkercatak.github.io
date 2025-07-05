@@ -1,19 +1,19 @@
 ---
 date: 2010-09-10 12:26:40
 layout: post
-title: Birds can fly, but this you knew already
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
-category: life
+title: Regisseur İlker Çatak & Christian Schwochow
+subtitle: Bevor der Regisseur İlker Çatak seinen durchschlagenden Erfolg mit dem Oscar-nominierten und vielfach ausgezeichneten Film „Das Lehrerzimmer“ feierte, erfuhr er neben einigen kleineren Erfolgen auch Ablehnung auf seinem Werdegang zu einem der gefeiertsten Regietalente Deutschlands.
+description: In den zwei „Welten“ von Istanbul und Berlin aufgewachsen, ist für İlker Çatak Ambivalenz das wichtigste Kriterium für den Kinofilm und er sieht sich in der Verantwortung, den Zuschauenden keine Meinung vorzuschreiben.
+image: assets/img/F-Podcast.png
+optimized_image: assets/img/F-Podcast.png
+category: interview
 tags:
-  - life
-  - tips
-author: mranderson
+  - career
+  - work
+author: theilkercatak
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Cas sociis natoque penatibus et magnis <a href="https://www.youtube.com/watch?v=jHUU3xIJ2E4">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 

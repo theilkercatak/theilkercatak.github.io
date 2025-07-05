@@ -1,16 +1,16 @@
 ---
 date: 2017-06-08 12:00:00
 layout: post
-title: Do you believe that a spider can dance?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-category: travel
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824306/theme13_dshbqx.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824306/theme13_dshbqx.jpg
+title: How to prepare for shooting?
+subtitle: What are the most important steps before and after the camera?
+description: How is the process of post-production?
+category: technical
+image: assets/img/F-Action.png
+optimized_image: assets/img/F-Action.png
 tags:
-  - fate
-  - travel
-author: mranderson
+  - technical
+  - shooting
+author: theilkercaak
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

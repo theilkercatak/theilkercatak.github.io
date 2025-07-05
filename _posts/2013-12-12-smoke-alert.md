@@ -1,20 +1,19 @@
 ---
 date: 2017-07-29 13:24:49
 layout: post
-title: Smoke alert
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824021/theme12_e0vxlr.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824021/theme12_e0vxlr.jpg
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'blog'
+title: Fast Fiction
+description: Three youths in a supermarket, trying to waste their time. The game they play is to tell a story's missing beginning, but the story told might hold more truth than fiction.
+image: assets/img/F-FastFiktion.png
+optimized_image: assets/img/F-FastFiktion.png
+subtitle: One girl, two guys. That is one too much. So naturally there is mistrust, murder, suicide and some supermarket shopping.
+category: 'kurzfilm'
 tags:
-  - jekyll
-  - wordpress
-  - blog
-author: mranderson
+  - kurzfilm
+author: theilkercatak
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Three youths in a supermarket, trying to waste their time. The game they play is to tell a story's missing beginning, but the story told might hold more truth than fiction. <a href="https://vimeo.com/groups/shorts/videos/7449802"></a>, One girl, two guys. That is one too much. So naturally there is mistrust, murder, suicide and some supermarket shopping.
+
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 

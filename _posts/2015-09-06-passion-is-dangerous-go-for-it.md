@@ -1,19 +1,19 @@
 ---
 date: 2015-09-06 12:00:00
 layout: post
-title: Passion is dangerous, go for it!
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825288/theme17_nlndhx.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825288/theme17_nlndhx.jpg
-category: work
+title: Interview mit Filmuniversitaet Babelberg
+subtitle: Im Rahmen der Interview-Serie von Prof. Karim Sebastian Elias, die in Kooperation mit der Filmuniversität Babelsberg KONRAD WOLF und der Deutschen Filmakademie entsteht, gibt Ilker Çatak tiefgehende Einblicke in seine Arbeitsweise.
+description: Die Staffel widmet sich dem Thema "Frauen im Film" und präsentiert verschiedene Perspektiven von herausragenden Filmschaffenden zu ihren Erfahrungen, Herausforderungen und Zukunftsvisionen in der Branche.
+image: assets/img/F-Interview.png
+optimized_image: assets/img/F-Interview.png
+category: interview
 tags:
   - work
   - career
-author: mranderson
+author: theilkercatak
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Im Rahmen der Interview-Serie von Prof. Karim Sebastian Elias, die in Kooperation mit der Filmuniversität Babelsberg KONRAD WOLF und der Deutschen Filmakademie entsteht, gibt Ilker Çatak tiefgehende Einblicke in seine Arbeitsweise. <a href="https://www.zdf.de/video/interviews/masterclass-100/masterclass-ilker-catak-100">interview link</a>Die Staffel widmet sich dem Thema "Frauen im Film" und präsentiert verschiedene Perspektiven von herausragenden Filmschaffenden zu ihren Erfahrungen, Herausforderungen und Zukunftsvisionen in der Branche
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
